@@ -8,11 +8,20 @@ h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 3.125rem;
-
 }
 
 a {
-    color: aquamarine;
-    font-size: 1rem;
+  color: aquamarine;
+  font-size: 1rem;
 }
 
+#second-title {
+  font-size: 2.625rem;
+}
+
+h3 {
+    color: grey;
+    font-size: 1.3125rem;
+    font-family: Verdana;
+
+}
